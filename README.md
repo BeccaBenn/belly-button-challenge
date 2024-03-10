@@ -1,4 +1,7 @@
 Belly Button Biodiversity Dashboard
+
+This dashboard can be viewed at https://beccabenn.github.io/belly-button-challenge/
+
 The Belly Button Biodiversity Dashboard is a web application that visualizes data related to the microbial biodiversity found in human navels. It provides interactive charts and demographic information for exploration of the dataset. It was created as a project for UCSB Data Analytics Bootcamp.
 
 Features
